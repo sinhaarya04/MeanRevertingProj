@@ -1,0 +1,18 @@
+These are the cells where the NA didn't properly load in
+
+h 195
+
+di 588
+
+dw 801
+
+BH 1625
+
+DJ 1690
+
+ES 2990
+
+EI 4024
+
+
+=BDH(C$1, "PX_SETTLE", $A5, $A5)
